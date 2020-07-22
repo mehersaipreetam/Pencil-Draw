@@ -2,8 +2,6 @@
 
 This project aims to render an image as close to pencil drawings of a particular image as possible.
 
-Tweak filters or scale for better results depending on the original image
-
 Demo:
 
 Initial:  
@@ -14,6 +12,7 @@ Final:
 
 ![oimg1](https://user-images.githubusercontent.com/51680175/88213933-fbbe9580-cc76-11ea-8c8a-f61e51c0feb9.jpeg)
 
+Tweak filters or scale for better results depending on the original image  
 
 - Madiraju Meher Sai Preetam
 
