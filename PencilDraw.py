@@ -28,7 +28,7 @@ cv2.waitKey()
 
 # BLEND
 
-output = cv2.divide(gray_img, 255 - gray_img_blur, scale=140)
+output = cv2.divide(gray_img, 255 - gray_img_blur, scale=220)
 cv2.imshow('Output',output)
 cv2.waitKey()
 cv2.destroyAllWindows()
